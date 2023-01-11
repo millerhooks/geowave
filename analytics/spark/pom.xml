@@ -9,7 +9,7 @@
 	<artifactId>geowave-analytic-spark</artifactId>
 	<name>GeoWave Spark Analytics</name>
 	<properties>
-		<scala.version>2.10.4</scala.version>
+		<scala.version>2.10.7</scala.version>
 	</properties>
 	<dependencies>
 		<dependency>
